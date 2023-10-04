@@ -51,6 +51,6 @@ Activate [Amazon's CodeWhisperer](https://aws.amazon.com/codewhisperer/), your A
 Alright, you're all set to start building your next generative AI masterpiece with Amazon Bedrock. Click on one of the modules to get started.
 
 * [Image Module](image_module/README.md)
-* [Text Module](image_module/README.md)
-* [Chat Module](image_module/README.md)
-* [Agent Module](image_module/README.md)
+* [Text Module](text_module/README.md)
+* [Chat Module](chat_module/README.md)
+* [Agent Module](agent_module/README.md)
