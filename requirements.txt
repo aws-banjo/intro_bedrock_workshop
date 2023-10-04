@@ -1,0 +1,7 @@
+streamlit
+boto3
+Pillow
+transformers
+langchain
+faiss-cpu
+requests
