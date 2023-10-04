@@ -20,7 +20,7 @@ Text summarization is like the "Cliff's Notes" for machine learning. It's all ab
 
 ### Code Walkthrough
 
-The function `summarize_text(text)`` calls the AI21 Labs model. It takes a lengthy text and returns a concise summary.
+The function `summarize_text(text)` calls the AI21 Labs model. It takes a lengthy text and returns a concise summary.
 
 ```python
 def summarize_text(text):
@@ -34,10 +34,10 @@ Sentiment analysis is the tech version of reading the room. It gauges the mood o
 
 ### Code Walkthrough
 
-Right now, the function sentiment_analysis() is waiting for your touch.
+Right now, the function `sentiment_analysis(text)` is waiting for your touch.
 
 ```python
-def sentiment_analysis():
+def sentiment_analysis(text):
     # TODO
     result = None
     return result
@@ -50,7 +50,7 @@ Question and Answer (Q&A) systems are like your own personal research assistant.
 
 ### Code Walkthrough
 
-The function `perform_qa(question, text)`` is still a template, ready for implementation.
+The function `perform_qa(question, text)` is still a template, ready for implementation.
 
 ```python
 def perform_qa(question, text):

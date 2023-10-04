@@ -8,8 +8,8 @@ Our learning objectives are:
 
 1. To build a Streamlit application capable of displaying images produced via Stable Diffusion.
 2. To build applications that can handle a variety of text based text such as Summarization and Q&A.
-3. To build an AI Agent with the capability to generate code and retrieve information from documents.
-4. To build a conversational applications such as a chatbot.
+3. To build a conversational applications such as a chatbot.
+4. To build an AI Agent with various tools such as retrieving information from documents.
 
 By the end of this workshop, you will have gained valuable hands-on experience in building generative AI applications with Amazon Bedrock.
 
