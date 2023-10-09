@@ -38,7 +38,7 @@ First, clone the repo, and run the following command to grab the libraries youâ€
 ```bash
 git clone https://github.com/aws-banjo/intro_bedrock_workshop.git
 cd intro_bedrock_workshop
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 **(Optional) Step 4: Enable Amazon CodeWhisperer**
 
